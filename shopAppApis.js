@@ -201,7 +201,7 @@ const products = [
     }
 ];
 const users = [
-    { id: 1, name: 'John', email: 'email@test.com', password: '12356' },
+    { id: 1, name: 'John', email: 'email@test.com', password: '12345' },
     // Add more user data as needed
 ];
 const orders = [
