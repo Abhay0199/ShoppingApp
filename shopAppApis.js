@@ -19,6 +19,9 @@ const port = 2410;
 app.listen(port, () => console.log(`Node app listening on port ${port}!`));
 const jwt = require('jsonwebtoken');
 
+
+// Your code using jsonwebtoken
+
 app.use(bodyParser.json());
 const secretKey = 'your-secret-key';
 // Sample product data
